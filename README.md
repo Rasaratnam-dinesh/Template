@@ -1,1 +1,1 @@
-"# This is a saample template for your practices" 
+"# This is a sample template for your practices" 
